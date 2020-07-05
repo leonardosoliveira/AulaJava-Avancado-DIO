@@ -1,4 +1,4 @@
-package com.company;
+package br.com.aulas.dio;
 
 import java.util.ArrayList;
 import java.util.List;

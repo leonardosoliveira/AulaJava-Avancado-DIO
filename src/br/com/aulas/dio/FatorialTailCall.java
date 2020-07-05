@@ -1,4 +1,4 @@
-package com.company;
+package br.com.aulas.dio;
 
 public class FatorialTailCall {
 
